@@ -46,9 +46,16 @@ Finally, the data is loaded into Amazon Athena Data Warehouse, providing a centr
 
 Optionally the data can be exported to any visualization tool in order to create dashboards or EDA looking for new insights and conclusions.
 
+
 ### Exploratory Data Analysis 
 
 Check the Jupyter Notebook --->  [Analysis](https://github.com/Gaboytes/spotify-end-to-end-data-engineering-project/blob/main/Spotify%20Data%20Eng%20Pipeline%20Project%20.ipynb)
+
+
+### Dashboard
+![image](https://github.com/Gaboytes/spotify-end-to-end-data-engineering-project/assets/145523136/d07c123f-a39e-495e-b8f3-a51869a91cf0)
+
+
 
 ### Conclusions
 By implementing this fully automated data pipeline, we ensure that new data from the Spotify API is efficiently processed and made available for analysis. This project showcases the power and versatility of AWS Cloud Platform in building robust and automated data engineering solutions.
