@@ -53,7 +53,8 @@ Check the Jupyter Notebook --->  [Analysis](https://github.com/Gaboytes/spotify-
 
 
 ### Dashboard
-![image](https://github.com/Gaboytes/spotify-end-to-end-data-engineering-project/assets/145523136/d07c123f-a39e-495e-b8f3-a51869a91cf0)
+![image](https://github.com/Gaboytes/spotify-end-to-end-data-engineering-project/assets/145523136/eb7f2f97-57a6-4945-b2ec-30ae60d28b60)
+
 
 
 
