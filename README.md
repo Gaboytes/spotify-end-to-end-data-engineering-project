@@ -55,7 +55,16 @@ Check the Jupyter Notebook --->  [Analysis](https://github.com/Gaboytes/spotify-
 ### Dashboard
 ![image](https://github.com/Gaboytes/spotify-end-to-end-data-engineering-project/assets/145523136/eb7f2f97-57a6-4945-b2ec-30ae60d28b60)
 
-
+### Tech Used
+To make this I started with a Kaggle dataset:
+- Enriched the dataset using ChatGPT Code generation
+- Python to call Spotify's Web API to get images
+- Powerpoint for the Glassmorphism layout
+- HTML visuals for the Cover Art
+- DENEB Heatmap with bars
+- DENEB Unit charts
+- Heatmap code here = 🔗 https://github.com/PowerBI-tips/Deneb-Templates/blob/main/templates/heatmap%20with%20bars%20-%20red%20themed.json
+-  Unit chart code here (from Davide Bacci) = 🔗  https://github.com/PBI-David/Deneb-Showcase
 
 
 ### Conclusions
