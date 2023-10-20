@@ -56,7 +56,7 @@ Check the Jupyter Notebook --->  [Analysis](https://github.com/Gaboytes/spotify-
 ![image](https://github.com/Gaboytes/spotify-end-to-end-data-engineering-project/assets/145523136/eb7f2f97-57a6-4945-b2ec-30ae60d28b60)
 
 ### Tech Used
-To make this I started with a Kaggle dataset:
+To make this I started with a Kaggle [dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023) :
 - Enriched the dataset using ChatGPT Code generation
 - Python to call Spotify's Web API to get images
 - Powerpoint for the Glassmorphism layout
