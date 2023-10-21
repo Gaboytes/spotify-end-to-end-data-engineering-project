@@ -1,4 +1,6 @@
 # Spotify End-to-End Data Engineering project
+ 
+
  ### Architecture
  ![Architecture](https://github.com/Gaboytes/spotify-end-to-end-data-engineering-project/blob/main/pictures/spotify%20imagen.jpg)
 
@@ -55,6 +57,9 @@ Check the Jupyter Notebook --->  [Analysis](https://github.com/Gaboytes/spotify-
 ### Dashboard
 ![image](https://github.com/Gaboytes/spotify-end-to-end-data-engineering-project/assets/145523136/eb7f2f97-57a6-4945-b2ec-30ae60d28b60)
 
+- Live Dashboard = [Link](https://www.novypro.com/project/spotify-dashboard-power-bi-1)
+
+
 ### Tech Used
 To make this I started with a Kaggle [dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023) :
 - Enriched the dataset using ChatGPT Code generation
@@ -64,8 +69,7 @@ To make this I started with a Kaggle [dataset](https://www.kaggle.com/datasets/n
 - DENEB Heatmap with bars
 - DENEB Unit charts
 - Heatmap code here = 🔗 https://github.com/PowerBI-tips/Deneb-Templates/blob/main/templates/heatmap%20with%20bars%20-%20red%20themed.json
--  Unit chart code here (from Davide Bacci) = 🔗  https://github.com/PBI-David/Deneb-Showcase
-
+- Unit chart code here (from Davide Bacci) = 🔗  https://github.com/PBI-David/Deneb-Showcase
 
 ### Conclusions
 By implementing this fully automated data pipeline, we ensure that new data from the Spotify API is efficiently processed and made available for analysis. This project showcases the power and versatility of AWS Cloud Platform in building robust and automated data engineering solutions.
